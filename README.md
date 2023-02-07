@@ -1,0 +1,2 @@
+# simpay
+Simulated Payment method
